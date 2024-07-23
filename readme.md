@@ -3,6 +3,13 @@
 ## Commit History Screenshot
 ![history screenshot](commitHistory.png)
 
+## Completed Resume Screenshots
+![desktop screenshot](desktopScreenshot.png)
+![pdf screenshot](pdfScreenshot.png)
+![mobile screenshot 1](mobileScreenshot1.png)
+![mobile screenshot 2](mobileScreenshot2.png)
+
+
 ## Overview
 
 In this assignment, you'll acquire and apply critical skills in GIT collaboration, advanced CSS, and web accessibility. These skills will be integral throughout the remainder of the course and your broader technology career. To complete the assignment, follow the detailed [CSS instructions](css.md) and make the ten identified pull requests as outlined in the main [git assignment](assignment.md).
